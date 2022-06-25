@@ -8,7 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/narendra-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendra-singh" height="30" width="40" /></a>
+<a href="https://twitter.com/narensingh31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="narensingh31" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/narendra-singh-2860aa120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendra-singh-2860aa120" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/narendrasingh31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="narendrasingh31" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@narendrasingh31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@narendrasingh31" height="30" width="40" /></a>
 </p>
 
